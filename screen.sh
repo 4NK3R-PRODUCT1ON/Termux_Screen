@@ -23,7 +23,7 @@ clear
 rm -rf /data/data/com.termux/files/home/Termux_Screen/
 echo -e "[•] Sedang Menganbil Data Anda.."
 sleep 5
-echo -n -e "[•] Selamat Datang Kembali Tuan "$R;"+G+"[", nama,"]"+W+"
+echo -n -e "[•] Selamat Datang Kembali Tuan "$R;whoami
 sleep 3
 #
 #
@@ -124,8 +124,8 @@ echo ""
 echo ""
 echo -e $C">>\t"$R"["$Bl" MAAF"$W" TUAN KESALAHAN TIDAK AKAN DI ULAGI LAGI "$R" ]"
 echo -e $C">>\t"$R"["$Bl" SELAMAT"$W "DATANG TUAN KU SEMOGA "$R"                ]"
-echo -e $C">>\t"$R"[ "$W"HARIMU "$Bl"MENYE"$W" NANGKAN "$R"                     ]"
-echo -e $C">>\t"$R"["$W" TOOLS"$Bl" DI BUAT OLEH"$W" MR ANKER TUAN   "$R"       ]"
+echo -e $C">>\t"$R"[ "$W"HARIMU "$Bl"MENYE"$W" NANGKAN "$R"                        ]"
+echo -e $C">>\t"$R"["$W" TOOLS"$Bl" DI BUAT OLEH"$W" MR ANKER TUAN   "$R"          ]"
 echo -e $C">>\t"$R"["$W" JANGAN LUPAKAN "$Bl"TUAN ANKER TUAN           "$R"     ]"
 echo ""
 echo ""
