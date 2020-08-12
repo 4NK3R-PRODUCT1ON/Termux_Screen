@@ -1,9 +1,7 @@
 #!/ust/etc/bash
-#Author INDOnimous
-#Github : https://github.com/INDOnimous
-#Youtube : https://YouTube.com/OFFICIALINDOnimousOFFICIALI>
-#inatagram : https://Instagram.com/indonimous
-#Website : www.pasaronlen.com
+#Author ANKER
+#Github : ANKET
+#youtube:anker
 #
 #
 #
@@ -25,7 +23,7 @@ clear
 rm -rf /data/data/com.termux/files/home/Termux_Screen/
 echo -e "[•] Sedang Menganbil Data Anda.."
 sleep 5
-echo -n -e "[•] Selamat Datang Kembali Tuan "$R;whoami 
+echo -n -e "[•] Selamat Datang Kembali Tuan "$R;"+G+"[", nama,"]"+W+"
 sleep 3
 #
 #
@@ -125,15 +123,15 @@ echo -e $C"\t\t[~]"$G" WELCOME IN TERMINAL"$C" [~]"
 echo ""
 echo ""
 echo -e $C">>\t"$R"["$Bl" MAAF"$W" TUAN KESALAHAN TIDAK AKAN DI ULAGI LAGI "$R" ]"
-echo -e $C">>\t"$R"["$Bl" SELAMAT"$W "DATANG TUAN KU SEMOGA "$R"]"
-echo -e $C">>\t"$R"[ "$W"HARIMU "$Bl"MENYE"$W" NANGKAN "$R"]"
-echo -e $C">>\t"$R"["$W" TOOLS"$Bl" DI BUAT OLEH"$W" MR ANKER TUAN   "$R"]"
-echo -e $C">>\t"$R"["$W" JANGAN LUPAKAN "$Bl"TUAN ANKER TUAN           "$R"]"
+echo -e $C">>\t"$R"["$Bl" SELAMAT"$W "DATANG TUAN KU SEMOGA "$R"                ]"
+echo -e $C">>\t"$R"[ "$W"HARIMU "$Bl"MENYE"$W" NANGKAN "$R"                     ]"
+echo -e $C">>\t"$R"["$W" TOOLS"$Bl" DI BUAT OLEH"$W" MR ANKER TUAN   "$R"       ]"
+echo -e $C">>\t"$R"["$W" JANGAN LUPAKAN "$Bl"TUAN ANKER TUAN           "$R"     ]"
 echo ""
 echo ""
 echo -e $P"\t  ["$Bl"&"$P"]"$W" Instan Screen By 4NK3R-EROR "$P"["$Bl"&"$P"]"
 echo ""
-echo -e ">>>\t\t"$G $M"[ WWW.PASARONLEN.COM ]"$J""
+echo -e ">>>\t\t"$G $M"[ WWW.YOUTUBE.COM ]"$J""
 echo""
 date |lolcat
 echo -e $G ""
